@@ -1,0 +1,52 @@
+header nav ul li:hover {
+  background-color: #3676bb;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.mybg-beige {
+  background-color: #e8e6e0;
+}
+
+.mybg-header {
+  background-color: #363b47;
+}
+
+.mycolor-grey {
+  color: #363b47;
+}
+
+.mybg-lightblue {
+  background-color: #26a2cc;
+}
+
+.mycolor-lightblue {
+  color: #26a2cc;
+}
+
+.mycolor-blue {
+  color: #3676bb;
+}
+
+.mybg-blue {
+  background-color: #3676bb;
+}
+
+.mybg-card {
+  background-color: #38485f;
+}
+
+.mycolor-lightgrey {
+  color: #808080c7;
+}
+
+.mybg-card1 {
+  background-color: #e2e0e0;
+}
+
+.tailleIcon {
+  height: 55px;
+  width: 55px;
+}
+
+/*# sourceMappingURL=style.css.map */
